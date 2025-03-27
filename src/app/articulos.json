@@ -1,0 +1,30 @@
+[
+    {
+        "imagen": "articleThumb1.jpg",
+        "titulo": "Rabbit R1 no longer relevant",
+        "autor": "Posted by John Smith on Feb 20 2024",
+        "texto": "The AI powered device that was later discovered to just be a weirdly shaped Android device is no longer relevant today.",
+        "link": "article1.html"
+    },
+    {
+        "imagen": "articleThumb2.jpg",
+        "titulo": "Microsoft makes a new type of material",
+        "autor": "Posted by Mike Power on Feb 20 2024",
+        "texto": "The world’s first topoconductor.      This revolutionary class of materials enables us to create topological superconductivity, a new state of matter that previously existed only in theory.",
+        "link": "article1.html"
+    },
+    {
+        "imagen": "articleThumb3.jpg",
+        "titulo": "OnePlus makes a typo",
+        "autor": "Posted by Deirdre O'Donnell on Feb 20 2024",
+        "texto": "OnePlus has now admitted that its latest flagship smartwatch has been released with      a by-now famous typo on one of its surfaces.",
+        "link": "article1.html"
+    },
+    {
+        "imagen": "articleThumb4.jpg",
+        "titulo": "A fourth news article should be here",
+        "autor": "Posted by Weran Outofideas on Feb 22 2024",
+        "texto": "You shouldn't be reading this part right here, stop. Why are still reading it?",
+        "link": "article1.html"
+    }
+]
